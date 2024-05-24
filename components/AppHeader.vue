@@ -14,7 +14,7 @@
           Liens
         </NuxtLink>
 
-        <NuxtLink to="#" class="cursor-pointer">
+        <NuxtLink to="logout" class="cursor-pointer">
           <Icon name="mdi:logout" />
         </NuxtLink>
       </div>
